@@ -1,0 +1,39 @@
+body {
+    background-color: white;
+}
+.WebStudio {
+font-family: Raleway;
+}
+.WebStudio {
+    color: black;
+}
+.WebStudio:hover,
+.WebStudio:focus {
+    color: blue;
+}
+.WebStudio:active {
+    color: tomato;
+}
+.navigation {
+    color: black;
+}
+.navigation:hover,
+.navigation:focus {
+    color: blue;
+}
+.navigation:active{
+    color: tomato;
+}
+.navigation {
+    font-family: Roboto;
+}
+.contacts {
+    color: black;
+}
+.contacts:hover,
+.contacts:focus {
+    color: blue;
+}
+.contacts:active {
+    color: tomato;
+}
