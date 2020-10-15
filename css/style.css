@@ -8,13 +8,16 @@
     left: 215px;
     top: 24px;
     font-family: Raleway;
-    color: blue;
+    color: black;
     font-style: normal;
     font-weight: bold;
     font-size: 26px;
     line-height: 31px;
     /* identical to box height */
     letter-spacing: 0.03em;
+    }
+    .logo {
+        color: blue;
     }
     .studio {
         /* Студия */
@@ -360,6 +363,9 @@
     letter-spacing: 0.03em;
     color: #2196F3;
     }
+    .flogo {
+        color: white;
+    }
     .adress {
         /* г. Киев, пр-т Леси Украинки, 26 */
     font-family: Roboto;
@@ -404,4 +410,7 @@
     .fnomber:hover,
     .fnomber:focus {
         color: blue;
+    }
+    .pfooter {
+        background: #2F303A;
     }
