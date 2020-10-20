@@ -1,3 +1,6 @@
+:root {
+    --accent-cl:#2196F3;
+}
 .header {
     /* top line bg */
     background: #FFFFFF;
@@ -35,6 +38,7 @@
     .studio:focus {
         color: blue;
     }
+    
     .portfolio {
         /* Портфолио */
     font-family: Roboto;
@@ -124,6 +128,7 @@
     
     text-decoration: none;
     }
+    
         
     }
     .attention {
@@ -426,13 +431,19 @@
     .all:focus {
         color: white;
     }
+    
     .link {
         text-decoration: none;
     }
     .btn {
-        background-color: transparent;
-
+        background-color: #F5F4FA;
     }
+    .btn :hover {
+        background-color: blue;
+    }
+    
+    
     .list {
         list-style: none;
     }
+    
